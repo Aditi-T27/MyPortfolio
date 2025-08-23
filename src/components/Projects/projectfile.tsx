@@ -55,7 +55,7 @@ export const cardItems = [
 `,
     links: {
       tech: "",
-      video: "/MyVideo/ChatStream2.0.mp4",
+      video: "https://drive.google.com/file/d/11NnNgBRfXNjFpW-TUvzYF-UhUT3Iy6Xj/view?usp=drive_link",
       github: "https://github.com/Aditi-T27/Chat-Stream",
       live:""
     },
@@ -207,7 +207,7 @@ This project integrates Computer Vision (MediaPipe + OpenCV) and Natural Languag
 `,
     links: {
       tech: "https://example.com/tech1",
-      video: "/MyVideo/NLP.mp4",
+      video: "https://drive.google.com/file/d/10eIhLgMNCkchwsEPxicy6uAzXTumHPON/view?usp=sharing",
       github: "https://github.com/Aditi-T27/ASL_NLP",
       live:""
     },
@@ -290,7 +290,7 @@ techStack: ["React+Vite","LLM pipeline","RL Model","Node.Js","Flask"],
 `,
     links: {
       tech: "https://example.com/tech1",
-      video: "/MyVideo/advNLP.mp4",
+      video: "https://drive.google.com/file/d/10eIhLgMNCkchwsEPxicy6uAzXTumHPON/view?usp=drive_link",
       github: "https://github.com/Aditi-T27/ASL-Sign_and_gesture_recognizer/tree/master",
       live:""
     },
