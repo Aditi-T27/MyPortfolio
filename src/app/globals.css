@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+
+:root {
+  --background: #171717;
+  --foreground: #171717;
+}
+body {
+  background-color: var(--background);
+  color: var(--foreground); /* optional for contrast */
+  margin: 0;
+  padding: 0;
+    font-family: "Winky Rough"
+}
+/* styles/globals.css */
+.winky-font {
+  font-family: 'Winky Rough', cursive;
+}
+
+.bitcount-prop-single-special {
+  font-family: "Bitcount Prop Single", system-ui;
+  font-variation-settings: "slnt" 0, "CRSV" 0.5, "ELSH" 0, "ELXP" 0;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-in-out;
+}
+
+
+
+
+/* @theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+} */
