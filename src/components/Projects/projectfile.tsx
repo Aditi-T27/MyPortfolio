@@ -391,51 +391,51 @@ techStack: ["React+Vite","LLM pipeline","RL Model","Node.Js","Flask"],
     space:true,
      tech:true
   },
-  {
-    image: "C:\Users\asus\MyPortfolio-Texh\my-app\public\image.png",
-    title: "EminentWorld",
-    content: (
-      <TiltedCard
-        imageSrc={EminentWorld.src}
-        altText="EminentWorld"
-        captionText="EminentWorld"
-        containerHeightClass="h-[100px] sm:h-[150px] md:h-[200px] lg:h-[275px]"
-        containerWidth="100%"
-        imageHeight="100%"
-        imageWidth="100%"
-        rotateAmplitude={12}
-        scaleOnHover={1.2}
-        showMobileWarning={false}
-        showTooltip={true}
-        displayOverlayContent={true}
-      // overlayContent={
-      //   <div className="tilted-card-demo-text text-[20px] p-1">
-      //     <TrueFocus
-      //       sentence="True Focus"
-      //       manualMode={false}
-      //       blurAmount={5}
-      //       borderColor="orange"
-      //       animationDuration={2}
-      //       pauseBetweenAnimations={1}
-      //     />
-      //   </div>
-      //}
-      />
-    ),
-    techStack: ["HTML","CSS","JavaScript","PHP"],
-    about: `An Webpage for illustrating serene peaks , rivers and moutaines in the worlds and their details, uses PHP to store user info for login and signUp`,
-    description: `A serene webpage showcasing global peaks, rivers, and mountains with PHP-based user login/signup system`,
-    links: {
-      tech: "https://example.com/tech1",
-      video: "https://youtube.com/video1",
-      github: "https://github.com/Aditi-T27/EminentWorld",
-      live:"https://eminent-world-5dtkcrq2g-aditi-naiks-projects.vercel.app"
-    },
-    vid:false,
-    live:true,
-    space:false,
-     tech:true
-  },
+  // {
+  //   image: "C:\Users\asus\MyPortfolio-Texh\my-app\public\image.png",
+  //   title: "EminentWorld",
+  //   content: (
+  //     <TiltedCard
+  //       imageSrc={EminentWorld.src}
+  //       altText="EminentWorld"
+  //       captionText="EminentWorld"
+  //       containerHeightClass="h-[100px] sm:h-[150px] md:h-[200px] lg:h-[275px]"
+  //       containerWidth="100%"
+  //       imageHeight="100%"
+  //       imageWidth="100%"
+  //       rotateAmplitude={12}
+  //       scaleOnHover={1.2}
+  //       showMobileWarning={false}
+  //       showTooltip={true}
+  //       displayOverlayContent={true}
+  //     // overlayContent={
+  //     //   <div className="tilted-card-demo-text text-[20px] p-1">
+  //     //     <TrueFocus
+  //     //       sentence="True Focus"
+  //     //       manualMode={false}
+  //     //       blurAmount={5}
+  //     //       borderColor="orange"
+  //     //       animationDuration={2}
+  //     //       pauseBetweenAnimations={1}
+  //     //     />
+  //     //   </div>
+  //     //}
+  //     />
+  //   ),
+  //   techStack: ["HTML","CSS","JavaScript","PHP"],
+  //   about: `An Webpage for illustrating serene peaks , rivers and moutaines in the worlds and their details, uses PHP to store user info for login and signUp`,
+  //   description: `A serene webpage showcasing global peaks, rivers, and mountains with PHP-based user login/signup system`,
+  //   links: {
+  //     tech: "https://example.com/tech1",
+  //     video: "https://youtube.com/video1",
+  //     github: "https://github.com/Aditi-T27/EminentWorld",
+  //     live:"https://eminent-world-5dtkcrq2g-aditi-naiks-projects.vercel.app"
+  //   },
+  //   vid:false,
+  //   live:true,
+  //   space:false,
+  //    tech:true
+  // },
   {
     description: "CheckOut More Projects On GitHub",
  links: {
