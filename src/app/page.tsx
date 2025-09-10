@@ -5,22 +5,14 @@ export const metadata = {
   description: 'Portfolio of Aditi S Naik, Full Stack Developer',
   icons: '/tech_girl.jpg',
   keywords: "Aditi Naik, Aditi S Naik, Full Stack Developer, Portfolio, Web Developer",
-  robots: "index, follow",  // allows indexing
+  robots: "index, follow",
   authors: [{ name: "Aditi S Naik" }],
-   
-  
-};
+  };
 
 export default function Home() {
   return (
    <>
-<head>
-  <meta name="google-site-verification" content="zJkq9HILjHwdtnpc4J_c2MNJZ1753oI1DWXQZe0mLe8" />
-</head>
-        {/* Add your fonts or meta here */}
-   
 
-       
     <link
           href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
           rel="stylesheet"
