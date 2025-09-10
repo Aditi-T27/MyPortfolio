@@ -4,6 +4,9 @@ export const metadata = {
   title: 'Aditi S Naik | Full Stack Developer',
   description: 'Portfolio of Aditi S Naik, Full Stack Developer',
   icons: '/tech_girl.jpg',
+  keywords: "Aditi Naik, Aditi S Naik, Full Stack Developer, Portfolio, Web Developer",
+  robots: "index, follow",  // allows indexing
+  authors: [{ name: "Aditi S Naik" }],
 };
 
 export default function Home() {
