@@ -8,7 +8,7 @@ export const metadata = {
   robots: "index, follow",  // allows indexing
   authors: [{ name: "Aditi S Naik" }],
     other: [
-    { name: "google-site-verification", content: "yzJkq9HILjHwdtnpc4J_c2MNJZ1753oI1DWXQZe0mLe8" }
+    { name: "google-site-verification", content: "zJkq9HILjHwdtnpc4J_c2MNJZ1753oI1DWXQZe0mLe8" }
   ]
 };
 
