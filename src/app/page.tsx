@@ -7,15 +7,16 @@ export const metadata = {
   keywords: "Aditi Naik, Aditi S Naik, Full Stack Developer, Portfolio, Web Developer",
   robots: "index, follow",  // allows indexing
   authors: [{ name: "Aditi S Naik" }],
-    other: 
-    { name: "google-site-verification", content: "zJkq9HILjHwdtnpc4J_c2MNJZ1753oI1DWXQZe0mLe8" }
+   
   
 };
 
 export default function Home() {
   return (
    <>
-
+<head>
+  <meta name="google-site-verification" content="zJkq9HILjHwdtnpc4J_c2MNJZ1753oI1DWXQZe0mLe8" />
+</head>
         {/* Add your fonts or meta here */}
    
 
