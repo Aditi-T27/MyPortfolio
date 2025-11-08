@@ -207,7 +207,7 @@ This project integrates Computer Vision (MediaPipe + OpenCV) and Natural Languag
 `,
     links: {
       tech: "https://example.com/tech1",
-      video: "https://drive.google.com/file/d/10eIhLgMNCkchwsEPxicy6uAzXTumHPON/view?usp=sharing",
+      video: "https://youtube.com/video1",
       github: "https://github.com/Aditi-T27/ASL_NLP",
       live:""
     },
@@ -290,7 +290,7 @@ techStack: ["React+Vite","LLM pipeline","RL Model","Node.Js","Flask"],
 `,
     links: {
       tech: "https://example.com/tech1",
-      video: "https://drive.google.com/file/d/10eIhLgMNCkchwsEPxicy6uAzXTumHPON/view?usp=drive_link",
+      video: "https://youtube.com/video1",
       github: "https://github.com/Aditi-T27/ASL-Sign_and_gesture_recognizer/tree/master",
       live:""
     },
